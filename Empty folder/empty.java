@@ -1,0 +1,3 @@
+// Empty Class
+class Test {
+}
